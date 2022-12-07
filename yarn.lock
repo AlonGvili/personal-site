@@ -1422,15 +1422,12 @@
     recast "^0.20.5"
     yargs "^17.1.0"
 
-"@metronome-sh/react@^1.0.5":
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/@metronome-sh/react/-/react-1.0.5.tgz#3f5766f0aee6d627084e44b90b358b3d2a482308"
-  integrity sha512-mOiLuL4ReRsjExCXCjCWaM10rt0RHCBkkr+YpsIrVeALK6KZZevPaoBu/RuN+k9R2Rn7KmlQXP4tTBgXJSjPyw==
+"@metronome-sh/react@^5.7.1":
+  version "5.7.1"
+  resolved "https://registry.yarnpkg.com/@metronome-sh/react/-/react-5.7.1.tgz#dcc26621fafd4919bd952b314df8a6697a9a7ea5"
+  integrity sha512-FogAb4VJoweeZz1FLCue3i6A/D7rH45F5jYB9eo3yk1iGL+y3xT6S224Qe4vy/P1b2cYPR91eKGd++8jawq5Ig==
   dependencies:
-    "@babel/core" "^7.15.0"
-    "@babel/template" "^7.14.5"
-    "@types/ua-parser-js" "^0.7.36"
-    web-vitals "^2.1.0"
+    web-vitals "^2.1.2"
 
 "@nodelib/fs.scandir@2.1.4":
   version "2.1.4"
@@ -9547,10 +9544,10 @@ walker@^1.0.7:
   dependencies:
     makeerror "1.0.x"
 
-web-vitals@^2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/web-vitals/-/web-vitals-2.1.0.tgz#ebf5428875ab5bfc1056c2e80cd177001287de7b"
-  integrity sha512-npEyJP8jHf3J71t1tRTEtz9FeKp8H2udWJUUq5ykfPhhstr//TUxiYhIEzLNwk4zv2ybAilMn7v7N6Mxmuitmg==
+web-vitals@^2.1.2:
+  version "2.1.4"
+  resolved "https://registry.yarnpkg.com/web-vitals/-/web-vitals-2.1.4.tgz#76563175a475a5e835264d373704f9dde718290c"
+  integrity sha512-sVWcwhU5mX6crfI5Vd2dC4qchyTqxV8URinzt25XqVh+bHEPGH4C3NPrNionCP7Obx59wrYEbNlw4Z8sjALzZg==
 
 webidl-conversions@^5.0.0:
   version "5.0.0"
