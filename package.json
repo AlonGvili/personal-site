@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "@metronome-sh/node": "^1.0.5",
-    "@metronome-sh/react": "^1.0.5",
+    "@metronome-sh/react": "^7.2.3",
     "@remix-run/node": "^0.18.0",
     "@remix-run/react": "^0.18.0",
     "@remix-run/serve": "^0.18.0",
